@@ -1,8 +1,8 @@
 ---
 template: index-page
 slug: /
-title: Daniel Kelley
-tagline: Former Black Hat Computer Hacker
+title: The Cyber Dispatch
+tagline: Expedite Your Cybersecurity Journey
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
   ctaText: Know more
