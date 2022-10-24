@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: The Cyber Dispatch
 tagline: Expedite Your Cybersecurity Journey
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: https://i.ibb.co/YdxF1Q1/imgonline-com-ua-Replace-Color-9azjzj7st-Qa.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
